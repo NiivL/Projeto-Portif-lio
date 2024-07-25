@@ -129,6 +129,7 @@ function showLista(lista, buttom = "all"){
     if(buttom == 'website'){
         lista[1].classList.add('ativo');
         lista[2].classList.add('ativo');
+        lista[3].classList.add('ativo');
     }
 
     if(buttom == 'all'){
