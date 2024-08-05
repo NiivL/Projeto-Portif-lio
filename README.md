@@ -12,6 +12,7 @@ Projeto pessoal com intuito de ser meu portifólio e para testar meus conhecimen
 - HTML
 - CSS
 - JavaScript
+- React JS
 
 
 ## 🖇️Clone o projeto
