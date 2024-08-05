@@ -19,7 +19,7 @@ Projeto pessoal com intuito de ser meu portifólio e para testar meus conhecimen
 Observação: Tenha o Git instalado no seu computador. Caso não tenha, você pode baixar [aqui](https://git-scm.com/downloads).
 
 #### 1 - URL do projeto
-URL: https://github.com/NiivL/Projeto-com-api-do-GitHub.git
+URL: https://niivl.github.io/Projeto-Portifolio/
 
 2 - Abra o terminal e navegue até o diretório desejado:
 ```bash
