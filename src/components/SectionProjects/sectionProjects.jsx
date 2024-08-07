@@ -96,10 +96,10 @@ useEffect(()=> {
             </div>
             <div className="projects_armazenamento">
                 <ul aria-label="Navegação de projetos e websites">
-                    <li ><img src="./src/images/One-piece.png" alt="Site criado para ser um site do anime One Pierce" /></li>
-                    <li ><img src="./src/images/NLcalendar.png" alt="Site criado para ser uma agenda eletronica online" /></li>
-                    <li ><img src="./src/images/gerador-de-conselhos.png" alt="Site de gerador de conselhos" /></li>
-                    <li ><img src="./src/images/Api-do-github.png" alt="Projeto com Api do GitHub" /></li>
+                    <li ><img src="src/images/One-piece.png" alt="Site criado para ser um site do anime One Pierce" /></li>
+                    <li ><img src="src/images/NLcalendar.png" alt="Site criado para ser uma agenda eletronica online" /></li>
+                    <li ><img src="src/images/gerador-de-conselhos.png" alt="Site de gerador de conselhos" /></li>
+                    <li ><img src="src/images/Api-do-github.png" alt="Projeto com Api do GitHub" /></li>
                 </ul>
             </div>
             <a href="#inicio">Voltar para o Inicio</a>
