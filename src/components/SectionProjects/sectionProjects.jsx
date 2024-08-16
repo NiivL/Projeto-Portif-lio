@@ -78,7 +78,7 @@ useEffect(()=> {
     return (
         <section className="projects">
             <div className="sobre_titulo">
-                <h1 id="portfolio">Meus Projetos</h1>
+                <h1 id="projetos">Meus Projetos</h1>
                 <p>Aqui você pode ver meus projetos e minha evolução.</p>
                 <div aria-label="Seção apenas de ilustrações de botões">
                     <span></span>

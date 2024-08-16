@@ -30,7 +30,7 @@ const Navigation = () => {
                         <li><a href="#home">Inicio</a></li>
                         <li><a href="#about">Sobre mim</a></li>
                         <li><a href="#resume">Resumo</a></li>
-                        <li><a href="#portfolio">Porfolio</a></li>
+                        <li><a href="#projetos">Projetos</a></li>
                         <li><a href="#contact">Contato</a></li>
                     </ul>
                     <i className="fa-solid fa-bars"></i>
