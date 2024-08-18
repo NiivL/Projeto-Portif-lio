@@ -14,7 +14,7 @@ const SectionAbautMe = () => {
                             <span></span>
                         </div>
                     </div>
-                    <img src="/Projeto-Portifolio/src/images/NivaldoLopes.jpeg" alt="imagem de uma pessoa ilustrativa" />
+                    <img src="./Projeto-Portifolio/src/images/NivaldoLopes.jpeg" alt="imagem de uma pessoa ilustrativa" />
                     <div className="sobre_conteudo">
                         <div className="sobre_texto">
                             <h1>Eu sou Nivaldo Lopes</h1>

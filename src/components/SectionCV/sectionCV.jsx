@@ -30,7 +30,7 @@ const SectionCV = () => {
                     <p>Seja bem vindo ao portifólio!</p>
                     <a href="#">Dowload CV</a>
                 </div>
-                <img src="/Projeto-Portifolio/src/images/NivaldoLopes.jpeg" alt="ilustrativa imagem de uma pessoa" />
+                <img src="./Projeto-Portifolio/src/images/NivaldoLopes.jpeg" alt="ilustrativa imagem de uma pessoa" />
             </section>
         </>
     );
